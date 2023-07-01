@@ -16,3 +16,6 @@ Ph no: 7815972324
 
 task2 :
 https://github.com/GowthamBade/Assignments/tree/Assignment2
+
+task3:
+https://github.com/GowthamBade/Assignments/tree/Assignment3
